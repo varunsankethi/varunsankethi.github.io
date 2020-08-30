@@ -1,0 +1,75 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+
+.background {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.mandukya {
+  margin-left: 100px;
+  padding: 0px;
+  position: absolute;
+  color: whitesmoke;
+  font-size: xxx-large;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  justify-content: center;
+}
+
+#aham {
+  border-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+#upanishad {
+  margin-left: 150px;
+  margin-top: 0px;
+  padding: 0px;
+  font-size: xx-large;
+}
+.smed {
+  margin-left: 800px;
+  margin-top: 10px;
+  padding: 0px;
+  position: absolute;
+  color: whitesmoke;
+  font-size: xx-large;
+}
+
+.smed i {
+  padding: 35px;
+}
+
+.smed a {
+  color: whitesmoke;
+}
+
+/*.passion {
+  top: 50%;
+  left: 50%;
+  transform: translate(25%, 25%);
+}*/
+
+.passion img {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /*background-size: cover;*/
+  width: 60%;
+  height: 60%;
+  border-radius: 1%;
+}
+
+.passion p {
+  text-align: center;
+  font-size: xx-large;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: whitesmoke;
+}
